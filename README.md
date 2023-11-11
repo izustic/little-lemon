@@ -1,11 +1,26 @@
-# Sample Snack app
+# Little Lemon app
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Clone, Open terminal/command prompt, and run `yarn start`.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+Ensure you have Expo Go installed on your phone or set up an emulator on your PC.
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+## Running on Expo Go
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+1. Scan the generated QR Code using the Expo Go app.
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+## Running on Emulator
+
+### iOS (Xcode)
+
+1. Open the project in Xcode using the command: `xed .` or open Xcode and select "Open Developer Tool" > "Simulator," then open the project.
+
+2. Press the "Run" button in Xcode to launch the iOS simulator.
+
+### Android (Android Studio)
+
+1. Open the project in Android Studio using the command: `studio .` or open Android Studio and select "Open an existing Android Studio project," then open the project.
+
+2. Ensure you have an Android Virtual Device (AVD) set up.
+
+3. Press the "Run" button in Android Studio to launch the Android emulator.
+
